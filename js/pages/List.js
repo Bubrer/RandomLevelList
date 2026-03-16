@@ -100,7 +100,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The level has to be mainly focused around being random (preferably random triggers) you can put any gameplay you want but there does have to be some randomness involved.
+                    </p>
+                        Achieved the record without using hacks. it is STRONGLY recommended to do your completion on vanilla gd, if not show all of your geode mods that you have enabled.
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -122,6 +124,9 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                    <p>
+                        If you can, show yourself uploading the level after the completion. This is so I can check the level to see the percent chances.
                     </p>
                 </div>
             </div>
